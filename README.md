@@ -8,7 +8,6 @@
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/></td>
   <td>ChatGPT API</td>
-  <td>Node-schedule</td>
  </tr>
 </table>
 <br>
@@ -16,6 +15,7 @@
 
 ### :desktop_computer: Descrição
  Projeto de recriação do ChatGPT na prática da DIO
+ <br>
  Link da live <a href="https://www.youtube.com/watch?v=V83WW8puWks&t=10057s">Hands-On: Recriando o ChatGPT na Prática</a>
 <br>
 <hr>
